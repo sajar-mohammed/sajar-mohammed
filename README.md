@@ -44,6 +44,12 @@ Frontend-focused Full Stack Developer with experience building scalable web appl
 
 ---
 
+## 🤖 AI-Assisted Development
+
+- Experience using GitHub Copilot, Cursor, and LLM-based tools
+- Leveraged AI for code scaffolding, debugging, and refactoring
+- Familiar with prompt optimization for development workflows
+
 ## 🔥 What I Enjoy Building
 
 - Scalable frontend architectures
