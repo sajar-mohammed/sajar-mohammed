@@ -1,16 +1,60 @@
-## Hi there 👋
+# Hi, I'm Sajar Mohammed 👋
 
-<!--
-**sajar-mohammed/sajar-mohammed** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend-focused Full Stack Developer with experience building scalable web applications using modern JavaScript frameworks and cloud infrastructure.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+- Strong focus on frontend architecture and performance
+- Experienced in React, Next.js, and Vue ecosystems
+- Backend development using Node.js, Express, and NestJS
+- Experienced with real-world integrations like Stripe payments and background job processing using BullMQ
+- Comfortable deploying applications using GCP, Vercel, and CI/CD pipelines
+
+---
+
+## 🛠 Tech Stack
+
+### 🎨 Frontend
+- React.js
+- Next.js
+- Vue.js
+- TypeScript
+- Tailwind CSS
+- Framer Motion
+
+### ⚙ Backend
+- Node.js
+- Express.js
+- NestJS
+- MongoDB
+- PostgreSQL
+- Redis
+- BullMQ
+
+### 💳 Integrations
+- Stripe (Payments & Webhooks)
+
+### ☁ Cloud & DevOps
+- GCP
+- Vercel
+- GitHub Pages
+- CI/CD (GitHub Actions)
+
+---
+
+## 🔥 What I Enjoy Building
+
+- Scalable frontend architectures
+- Clean API-driven applications
+- Real-time systems
+- Payment-enabled SaaS applications
+- Performance-optimized web apps
+
+---
+
+## 📫 Connect With Me
+
+- LinkedIn: https://www.linkedin.com/in/sajar-mohammed/
+- Email: sajarmohammed311@gmail.com
