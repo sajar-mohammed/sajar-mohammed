@@ -32,6 +32,8 @@ Frontend-focused Full Stack Developer with experience building scalable web appl
 - PostgreSQL
 - Redis
 - BullMQ
+- Python
+- Fastapi
 
 ### 💳 Integrations
 - Stripe (Payments & Webhooks)
@@ -41,6 +43,7 @@ Frontend-focused Full Stack Developer with experience building scalable web appl
 - Vercel
 - GitHub Pages
 - CI/CD (GitHub Actions)
+- Render
 
 ---
 
